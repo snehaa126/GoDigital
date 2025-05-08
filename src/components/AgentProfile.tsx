@@ -20,7 +20,7 @@ const AgentProfile = () => {
                 <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-blue-400 rounded-full transform rotate-6 animate-pulse group-hover:scale-110 transition-transform duration-500"></div>
                 <div className="absolute inset-0 bg-gradient-to-l from-blue-500 to-blue-300 rounded-full transform -rotate-6 animate-pulse delay-75 group-hover:scale-105 transition-transform duration-500"></div>
                 <img
-                  src="/ritesh.jpg"
+                  src="/ritesh.JPG"
                   alt="Ritesh Gondhale"
                   className="relative w-full h-full object-cover rounded-full border-4 border-white shadow-xl transform transition-transform duration-500 group-hover:scale-105"
                 />
@@ -66,7 +66,7 @@ const AgentProfile = () => {
                 <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-blue-400 rounded-full transform rotate-6 animate-pulse group-hover:scale-110 transition-transform duration-500"></div>
                 <div className="absolute inset-0 bg-gradient-to-l from-blue-500 to-blue-300 rounded-full transform -rotate-6 animate-pulse delay-75 group-hover:scale-105 transition-transform duration-500"></div>
                 <img
-                  src="https://drive.google.com/file/d/18U7bZW5bylrvhaKzYeCpLCJg1NjtJlbt/view?usp=drive_link"
+                  src="/sneha.jpeg"
                   alt="Sneha Gondhale"
                   className="relative w-full h-full object-cover rounded-full border-4 border-white shadow-xl transform transition-transform duration-500 group-hover:scale-105"
                 />
